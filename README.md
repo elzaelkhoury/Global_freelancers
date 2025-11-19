@@ -63,6 +63,9 @@ Dashboard visuals highlight:
 
 * MS Excel worksheet containing raw data sheet, clean data sheet, pivot tables and the Dashboard
 * README.md
+* Raw Data Snippet
+* Clean Data Snippet
+* Dashboard
 
 ---
 
